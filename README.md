@@ -1,5 +1,7 @@
 # FapCraft
 
+![logo](https://github.com/samuelsan37/FapCraft/blob/main/logo.png?raw=true)
+
 This mod expands Minecraft’s social interaction mechanics. Players can build deeper relationships with NPCs and other players through new dialogue options, gifts, and custom events. The goal is to add role‑playing depth, emotional progression, and immersive storytelling possibilities that go beyond vanilla Minecraft interactions.
 
 ### Features
